@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/prodotto/bungalow-open-space/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 

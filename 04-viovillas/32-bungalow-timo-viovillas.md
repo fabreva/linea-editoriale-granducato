@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/viovillas-arezzo/bungalow-timo/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -221,8 +221,6 @@ Scrivici
 ##### H3 — viovillasarezzo@gmail.com
 
 #### H2 — Informazioni e prenotazioni
-
-
 
 Prenota ora
 

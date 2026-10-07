@@ -1,6 +1,6 @@
 # Viovillas
 
-[Indice generale](../00-INDICE.md)
+[Indice generale](../README.md)
 
 ## Pagine
 

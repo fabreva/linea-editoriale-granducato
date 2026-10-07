@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/allegratoscana/appartamento-con-balcone/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -213,8 +213,6 @@ Scrivici
 allegratoscana@gmail.com
 
 #### H2 — Informazioni e prenotazioni
-
-
 
 Prenota ora
 

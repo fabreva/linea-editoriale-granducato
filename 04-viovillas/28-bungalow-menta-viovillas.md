@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/viovillas-arezzo/suite-menta-viovillas/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -196,8 +196,6 @@ Dove siamo
 
 ##### H3 — Str. San Polo 51 - I Villini, 52100 Arezzo FWR6+XF (AR)
 
-
-
 DOVE SIAMO
 
 Chiamaci
@@ -215,8 +213,6 @@ Scrivici
 ##### H3 — viovillasarezzo@gmail.com
 
 #### H2 — Informazioni e prenotazioni
-
-
 
 Prenota ora
 

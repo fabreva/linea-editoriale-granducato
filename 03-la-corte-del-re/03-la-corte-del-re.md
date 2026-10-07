@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/la-corte-del-re/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -18,11 +18,7 @@ La Corte del Re propone camere, suite e un appartamento nel centro storico di Ar
 
 Via Borgunto 5 – Arezzo
 
-|
-
 +39 377 2539581
-
-|
 
 Scrivici
 
@@ -114,8 +110,6 @@ Aggiunta servizio di Minibar con degustazione di vino
 
 #### H2 — Informazioni e prenotazioni
 
-
-
 Prenota ora
 
 ## 2. Testo attuale
@@ -124,11 +118,7 @@ Prenota ora
 
 Via Borgunto 5 – Arezzo
 
-|
-
 +39 377 2539581
-
-|
 
 Scrivici
 

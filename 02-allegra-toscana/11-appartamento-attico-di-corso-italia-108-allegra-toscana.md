@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/allegratoscana/attico-corso-italia-108/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -195,8 +195,6 @@ Adulti: 6 Bambini: 1 Vista: Vista luogo di interesse Dimensioni: 100 m² Aria Co
 ##### H3 — Suite Deluxe con idromassaggio Corso Italia 114
 
 #### H2 — Informazioni e prenotazioni
-
-
 
 Prenota ora
 

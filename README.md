@@ -1,8 +1,8 @@
 # Granducato Collection — testi italiani per pagina
 
-53 pagine con URL identificata e 3 bozze di strutture con URL da identificare. Ogni file contiene testo suggerito con H1–H4, testo attuale e incongruenze in coda.
+53 pagine con URL identificata e 3 bozze di strutture con URL da identificare. Ogni file contiene testo suggerito con titoli H1–H3, testo attuale, motivazioni editoriali con riferimenti Google e incongruenze in coda.
 
-## Pagine
+## Indice delle pagine
 
 ### Home
 
@@ -83,8 +83,6 @@
 - [Allegra Suite Marina di Pietrasanta](08-url-da-confermare/54-allegra-suite-marina-di-pietrasanta.md)
 - [Dimora il Praticino](08-url-da-confermare/55-dimora-il-praticino.md)
 - [Pescaja Suite](08-url-da-confermare/56-pescaja-suite.md)
-
-
 
 ## Mappa generale delle pagine trattate
 

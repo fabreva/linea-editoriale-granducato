@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/la-corte-del-re/camera-matrimoniale-doppia-con-letti-singoli/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -186,13 +186,9 @@ Parcheggio: Parcheggio pubblico disponibile in zona senza prenotazione al costo 
 
 ##### H3 — Appartamento 2 Livelli
 
-
-
 Dove siamo
 
 ##### H3 — Via Borgunto 5 Arezzo
-
-
 
 DOVE SIAMO
 
@@ -211,8 +207,6 @@ Scrivici
 ##### H3 — info@lacortedelre.com
 
 #### H2 — Informazioni e prenotazioni
-
-
 
 Prenota ora
 

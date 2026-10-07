@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/viovillas-arezzo/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -18,11 +18,7 @@ Viovillas propone bungalow nella campagna di Antria, nel territorio di Arezzo. U
 
 Località Antria 52/a – Arezzo
 
-|
-
 +39 351 8811773
-
-|
 
 Scrivici
 
@@ -114,8 +110,6 @@ Aggiunta servizio di Minibar con degustazione di vino
 
 #### H2 — Informazioni e prenotazioni
 
-
-
 Prenota ora
 
 ## 2. Testo attuale
@@ -124,11 +118,7 @@ Prenota ora
 
 Località Antria 52/a – Arezzo
 
-|
-
 +39 351 8811773
-
-|
 
 Scrivici
 

@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -162,8 +162,6 @@ A partire da 10 €
 
 #### H2 — Informazioni e prenotazioni
 
-
-
 Prenota ora
 
 ## 2. Testo attuale
@@ -176,11 +174,7 @@ Prenota ora
 
 Via Borgunto, 5 – Arezzo
 
-|
-
 +39 377 2539581
-
-|
 
 Scrivici
 

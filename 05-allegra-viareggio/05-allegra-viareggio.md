@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/allegraviareggio/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -18,11 +18,7 @@ Allegra Viareggio propone suite e appartamenti a Viareggio, in via Silvio Pellic
 
 Via Silvio Pellico 62 – Viareggio
 
-|
-
 +39 377 2539581
-
-|
 
 Scrivici
 
@@ -108,8 +104,6 @@ Aggiunta servizio di Minibar con degustazione di vino
 
 #### H2 — Informazioni e prenotazioni
 
-
-
 Prenota ora
 
 ## 2. Testo attuale
@@ -118,11 +112,7 @@ Prenota ora
 
 Via Silvio Pellico 62 – Viareggio
 
-|
-
 +39 377 2539581
-
-|
 
 Scrivici
 

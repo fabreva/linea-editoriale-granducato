@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/allegratoscana/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -15,18 +15,6 @@
 ### H1 — Allegra Toscana: camere, suite e appartamenti nel centro di Arezzo
 
 Allegra Toscana ti accoglie nel centro storico di Arezzo, con sistemazioni in Corso Italia 108 e 114. Scegli tra camere, suite e appartamenti per organizzare un fine settimana o un soggiorno più lungo in città.
-
-Corso Italia 108 – Arezzo
-
-|
-
-+39 377 2539581
-
-|
-
-Scrivici
-
-**CIN:** CIN:IT051002B4TLOVQ4XM · IT051002B4RSL5K3A2 · CIN: IT051002B4A9K72UIW
 
 #### H2 — Camere, suite e appartamenti
 
@@ -110,27 +98,15 @@ Aggiunta servizio di Minibar con degustazione di vino
 
 #### H2 — Informazioni e prenotazioni
 
-
-
 Prenota ora
 
 ## 2. Testo attuale
 
 ### Contenuto della pagina
 
-Corso Italia 108 – Arezzo
-
-|
-
-+39 377 2539581
-
-|
-
-Scrivici
-
 ### H3 — Allegra Toscana Affittacamere Guest House Arezzo
 
-### H2 — PERFETTO PER CHI CERCA COMFORT, CHARME E UN'ACCOGLIENZA AUTENTICA PER UN SOGGIORNO INDIMENTICABILE. LE NOSTRE STRUTTURE, SITUATE NEL CUORE DI CORSO ITALIA AD AREZZO, OFFRONO LA POSIZIONE IDEALE PER ESPLORARE LA CITTÀ E VIVERE UN'ESPERIENZA ESCLUSIVA IN UN B&B AFFITTACAMERE NEL CENTRO STORICO DI AREZZO NEL CUORE DELLA TOSCANA. ALLEGRA TOSCANA CORSO ITALIA 108 CIN:IT051002B4TLOVQ4XM | IT051002B4RSL5K3A2 ALLEGRA TOSCANA CORSO ITALIA 114 CIN: IT051002B4A9K72UIW
+### H2 — PERFETTO PER CHI CERCA COMFORT, CHARME E UN'ACCOGLIENZA AUTENTICA PER UN SOGGIORNO INDIMENTICABILE. LE NOSTRE STRUTTURE, SITUATE NEL CUORE DI CORSO ITALIA AD AREZZO, OFFRONO LA POSIZIONE IDEALE PER ESPLORARE LA CITTÀ E VIVERE UN'ESPERIENZA ESCLUSIVA IN UN B&B AFFITTACAMERE NEL CENTRO STORICO DI AREZZO NEL CUORE DELLA TOSCANA.  
 
 Booking
 

@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/prodotto/loft-con-bagno-privato-corso-italia-108/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -69,8 +69,6 @@ Marchio: Granducato Collection
 Loft moderno e accogliente situato al civico 108 di Corso Italia, nel centro storico di Arezzo. Gestito dad Allegra Toscana di Granducato Collection, è ideale per viaggiatori che cercano comfort e autenticità in Toscana. A soli 700 metri dalla stazione ferroviaria e a 850 metri dalla Cattedrale di Arezzo, permette di esplorare comodamente la città. L’alloggio include bagno privato, area salotto, WiFi gratuito e TV satellitare.
 
 Prenota direttamente su WhatsApp
-
-
 
 Suite Room Arezzo
 

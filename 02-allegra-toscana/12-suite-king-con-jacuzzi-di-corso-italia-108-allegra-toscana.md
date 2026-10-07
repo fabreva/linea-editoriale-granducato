@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/allegratoscana/suite-king-con-jacuzzi/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -177,8 +177,6 @@ Adulti: 4 Bambini: 1 Vista: Vista cortile interno Dimensioni: 80 m² Tipo di let
 ##### H3 — Loft con bagno privato Corso Italia 108
 
 #### H2 — Informazioni e prenotazioni
-
-
 
 Prenota ora
 

@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/la-corte-del-re/appartamento-2-livelli/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -210,8 +210,6 @@ Dove siamo
 
 ##### H3 — Via Borgunto 5 Arezzo
 
-
-
 DOVE SIAMO
 
 Chiamaci
@@ -229,8 +227,6 @@ Scrivici
 ##### H3 — info@lacortedelre.com
 
 #### H2 — Informazioni e prenotazioni
-
-
 
 Prenota ora
 

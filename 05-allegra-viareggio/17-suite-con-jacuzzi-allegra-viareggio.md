@@ -2,7 +2,7 @@
 
 **URL:** https://www.granducatocollection.com/allegraviareggio/suite-jacuzzi/
 
-[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+[Indice generale](../README.md) · [Indice della struttura](00-INDICE.md)
 
 ## Indice
 
@@ -168,13 +168,9 @@ Fumatori: Vietato Fumare
 
 ##### H3 — Suite BathTub
 
-
-
 Dove siamo
 
 ##### H3 — Via silvio pellico 62, 55049 Viareggio (LU)
-
-
 
 DOVE SIAMO
 
@@ -193,8 +189,6 @@ Scrivici
 ##### H3 — allegratoscanaviareggio@gmail.com
 
 #### H2 — Informazioni e prenotazioni
-
-
 
 Prenota ora
 
