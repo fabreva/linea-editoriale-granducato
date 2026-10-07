@@ -1,0 +1,155 @@
+# Junior Suite in Corso Italia 114 — scheda catalogo 8
+
+**URL:** https://www.granducatocollection.com/prodotto/junior-suite-corso-italia-114/
+
+[Indice generale](../00-INDICE.md) · [Indice della struttura](00-INDICE.md)
+
+## Indice
+
+- [Testo suggerito](#1-testo-suggerito)
+- [Testo attuale](#2-testo-attuale)
+- [Incongruenze](#3-incongruenze)
+
+## 1. Testo suggerito
+
+### H1 — Junior Suite in Corso Italia 114 ad Arezzo — Allegra Toscana
+
+La junior Suite in Corso Italia 114 ad Arezzo è una delle sistemazioni del catalogo Granducato Collection. La scheda riporta le caratteristiche dell’alloggio, i servizi descritti e i riferimenti per richiedere disponibilità.
+
+#### H2 — Caratteristiche dell’alloggio
+
+##### H3 — Ambienti e dotazioni
+
+Le camere di Allegra Toscana sono progettate per garantire un soggiorno rilassante e funzionale. Ogni sistemazione include: ✔ Wi-Fi gratuito ad alta velocità. ✔ TV satellitare per intrattenimento. ✔ Minibar su richiesta e un’accogliente area salotto. ✔ Bagno privato con doccia o vasca idromassaggio, asciugacapelli e set di cortesia.
+
+##### H3 — Colazione e Servizi Extra
+
+🍽 Colazione in camera: puoi acquistare la nostra Box colazione per goderti la colazione in totale relax. 🛎 Reception virtuale 24/7, con assistenza in presenza dalle 10:00 alle 19:30. 🎒 Deposito bagagli in Via Borgunto 7, perfetto per esplorare Arezzo senza preoccupazioni.
+
+##### H3 — Scopri Arezzo e la Toscana
+
+Soggiornare ad Arezzo significa immergersi nella bellezza della Toscana, una regione ricca di storia, arte e gastronomia. Durante il tuo soggiorno potrai visitare: 🏰 Il centro storico di Arezzo, con le sue affascinanti piazze e i negozi tipici. 🖼 La Basilica di San Francesco, famosa per gli affreschi di Piero della Francesca. 🍷 Le colline toscane, perfette per degustare vini e specialità locali.
+
+Prenota ora!
+
+Prenota direttamente su WhatsApp
+
+Richiedi Preventivo
+
+COD: JS-CI-114-MIL
+
+Categoria: Camere
+
+Tag: affitti brevi, affitti transitori, B&B Arezzo, affittacamere, soggiorni brevi, stazione arezzo
+
+Marchio: Granducato Collection
+
+#### H2 — All’interno di Allegra Toscana, struttura di Granducato Collection
+
+##### H3 — Caratteristiche e servizi
+
+Situata in Corso Italia 114, a soli 700 metri dalla stazione ferroviaria e 850 metri dalla Cattedrale
+
+questa sistemazione è perfetta per chi desidera esplorare la Toscana con comodità e stile. Ideale per viaggiatori in treno o per soggiorni vicino al Centro Chirurgico Toscano.
+
+#### H2 — Altre sistemazioni
+
+##### H3 — Suite Deluxe Corte del Re – Centro Storico Arezzo | Granducato Collection
+
+Dettagli
+
+##### H3 — Suite con vasca – Allegra Viareggio, Centro Storico | Granducato Collection
+
+Dettagli
+
+##### H3 — Camera Matrimoniale – La Corte del Re su Piazza Grande, Arezzo | Granducato Collection
+
+Dettagli
+
+## 2. Testo attuale
+
+### Contenuto della pagina
+
+### H1 — Junior Suite – Corso Italia 114, Arezzo | Granducato Collection
+
+### H1 — Junior Suite ad Arezzo – Allegra Toscana | Comfort, Stile e Posizione Centrale
+
+### H3 — Camere Confortevoli e Servizi di Qualità
+
+Le camere di Allegra Toscana sono progettate per garantire un soggiorno rilassante e funzionale. Ogni sistemazione include: ✔ Wi-Fi gratuito ad alta velocità. ✔ TV satellitare per intrattenimento. ✔ Minibar su richiesta e un’accogliente area salotto. ✔ Bagno privato con doccia o vasca idromassaggio, asciugacapelli e set di cortesia.
+
+### H3 — Colazione e Servizi Extra
+
+🍽 Colazione in camera: puoi acquistare la nostra breakfast box per goderti la colazione in totale relax. 🛎 Reception virtuale 24/7, con assistenza in presenza dalle 10:00 alle 19:30. 🎒 Deposito bagagli in Via Borgunto 7, perfetto per esplorare Arezzo senza preoccupazioni.
+
+### H3 — Scopri Arezzo e la Toscana
+
+Soggiornare ad Arezzo significa immergersi nella bellezza della Toscana, una regione ricca di storia, arte e gastronomia. Durante il tuo soggiorno potrai visitare: 🏰 Il centro storico di Arezzo, con le sue affascinanti piazze e i negozi tipici. 🖼 La Basilica di San Francesco, famosa per gli affreschi di Piero della Francesca. 🍷 Le colline toscane, perfette per degustare vini e specialità locali.
+
+Prenota Ora!
+
+Prenota direttamente su WhatsApp
+
+Richiedi Preventivo
+
+COD: JS-CI-114-MIL
+
+Categoria: Camere
+
+Tag: affitti brevi, affitti transitori, bedandbreakfastarezzo, guest house, shortlets, stazione arezzo
+
+Marchio: Granducato Collection
+
+### H3 — Descrizione
+
+### H3 — Descrizione
+
+### H1 — Junior Suite nel cuore di Arezzo
+
+### H2 — All’interno di Allegra Toscana, struttura di Granducato Collection
+
+### H3 — Situata in Corso Italia 114, a soli 700 metri dalla stazione ferroviaria e 850 metri dalla Cattedrale
+
+questa sistemazione è perfetta per chi desidera esplorare la Toscana con comodità e stile. Ideale per viaggiatori in treno o per soggiorni vicino al Centro Chirurgico Toscano.
+
+### H2 — Prodotti correlati
+
+### H3 — Suite Deluxe Corte del Re – Centro Storico Arezzo | Granducato Collection
+
+Dettagli
+
+### H3 — Suite Bath Tub – Allegra Viareggio, Centro Storico | Granducato Collection
+
+Dettagli
+
+### H3 — Camera Matrimoniale – La Corte del Re su Piazza Grande, Arezzo | Granducato Collection
+
+Dettagli
+
+## 3. Incongruenze
+
+### Scelte editoriali e riferimenti Google
+
+- **Identità della pagina.** L’H1 «Junior Suite in Corso Italia 114 ad Arezzo — Allegra Toscana» distingue Junior Suite in Corso Italia 114 — scheda catalogo 8 dalle altre pagine della raccolta. Nome, tipologia e località sono presenti quando pertinenti. Riferimento: [Google — titolo principale e link dei titoli](https://developers.google.com/search/docs/appearance/title-link?hl=it).
+
+- **Organizzazione dei contenuti.** Le sezioni principali sono «Caratteristiche dell’alloggio»; «All’interno di Allegra Toscana, struttura di Granducato Collection»; «Altre sistemazioni». Gli H3 raggruppano dettagli o singole sistemazioni sotto il relativo argomento. Il criterio applicato è la leggibilità della [guida introduttiva SEO di Google](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=it), non l’aumento del numero di titoli.
+
+- **Correzioni specifiche.** La descrizione iniziale identifica questa sistemazione anziché invitare genericamente a «consultare una proposta». «Il soggiorno» → «Caratteristiche dell’alloggio»: il titolo anticipa l’argomento della sezione senza una formula generica o una frase promozionale. «Camere Confortevoli e Servizi di Qualità» → «Ambienti e dotazioni»: il titolo anticipa l’argomento della sezione senza una formula generica o una frase promozionale. «Descrizione» → «Descrizione dell’alloggio»: il titolo anticipa l’argomento della sezione senza una formula generica o una frase promozionale. «Situata in Corso Italia 114, a soli 700 metri dalla stazione ferroviaria e 850 metri dalla Cattedrale» → «Caratteristiche e servizi»: il titolo anticipa l’argomento della sezione senza una formula generica o una frase promozionale. «Prodotti correlati» → «Altre sistemazioni»: il titolo anticipa l’argomento della sezione senza una formula generica o una frase promozionale. Riferimento: [Google — contenuti leggibili, organizzati e linguaggio naturale](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=it).
+
+- **Titoli descrittivi.** Le frasi lunghe «Situata in Corso Italia 114, a soli 700 metri dalla stazione ferroviaria e 850 metri dalla Cattedrale» diventano testo descrittivo sotto un’intestazione breve, per rendere riconoscibile la sezione. [Google — qualità di titolo e intestazione principale](https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=it).
+
+- **Criterio della gerarchia.** Un H1 principale è una scelta editoriale di questa proposta. Non viene presentato come obbligo di ranking; neppure H3 e H4 sono livelli da aggiungere a ogni costo. [Google — numero e ordine delle intestazioni](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=it).
+
+- **Informazioni per scegliere.** La pagina resta riferita a Junior Suite in Corso Italia 114 — scheda catalogo 8. Dotazioni, capienza e condizioni provengono dal testo attuale; le discrepanze riportate sotto richiedono conferma e non sono risolte attribuendo servizi di altre camere. [Google — contenuti utili e affidabili](https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=it).
+
+### Incongruenze e dati da confermare
+
+- Scheda del catalogo collegata da /le-nostre-camere/. Non è una URL alternativa della pagina descrittiva: mantenere distinta la funzione di questa scheda.
+
+- Nel contenuto della pagina risultano 3 titoli H1; la proposta ne prevede uno.
+
+- Titolo H1 attuale sostituito dal titolo specifico della pagina: «Junior Suite – Corso Italia 114, Arezzo | Granducato Collection».
+
+- Titolo H1 attuale sostituito dal titolo specifico della pagina: «Junior Suite ad Arezzo – Allegra Toscana | Comfort, Stile e Posizione Centrale».
+
+- Titolo H1 attuale sostituito dal titolo specifico della pagina: «Junior Suite nel cuore di Arezzo».
